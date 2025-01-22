@@ -15,4 +15,6 @@ func main() {
 
 	fmt.Println(numOne)
 
+	fmt.Printf("My name is %v and My age is %v", name, age)
+
 }
