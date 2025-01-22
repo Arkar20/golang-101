@@ -5,7 +5,7 @@ import "fmt"
 func main() {
 	name := "arkar"
 
-	fmt.Println(name)
+	fmt.Println("My name is", name)
 
 	age := 12
 
